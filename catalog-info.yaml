@@ -14,7 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
     - title: My Dashboard
-      url: https://dashboard.example.com
+      https://github.com/Sambhav007/realtimeapp-infra-1
       icon: dashboard
   annotations:
     github.com/project-slug: backstage/backstage
